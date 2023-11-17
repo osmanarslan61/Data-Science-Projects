@@ -27,7 +27,7 @@ def plot_line(my_df):
     return c2   
 
 #df = pd.concat(map(pd.read_csv, glob.glob(os.path.join('', "./Data/flight_prices_Sep*.csv"))))
-df = pd.read_csv("./Data/lookup_table4.csv")
+df = pd.read_csv("lookup_table4.csv")
 win_size=7
 def predict_best_time(destination,flight_date):
     int_prices=[]
