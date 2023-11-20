@@ -10,8 +10,9 @@ In this project, we scrape historical flight prices from Google Flights Website 
 - capstone_project_Osman_Arslan.jpynb: includes all the codes of the project and detailed explanations.
 - app.py: runs the website on streamlit
 - predictor.py: Calculates best time window based on the entered flight date, destination, and look up table.
-- lookup_table: A list of all the predicted best time windows for all destinations and days of the week.
+- lookup_table4.csv: A list of all the predicted best time windows for all destinations and days of the week.
 - requirement.txt: Installation requirements for the environment.
+- Data/ Folder: includes scraped data from google flights website.
 - README.txt: You are reading me :)
 
 **Data Scraping:** We use Selenium to automate the data scraping process. We scrape prices for flights from RDU Airport to 25 different destinations. 
