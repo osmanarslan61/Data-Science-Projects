@@ -1,0 +1,1501 @@
+Destination,Days_Ago,Price,Departure_Date,Day_of_the_Week
+Atlanta,1,139,10/14/2023,Saturday
+Atlanta,2,139,10/14/2023,Saturday
+Atlanta,3,109,10/14/2023,Saturday
+Atlanta,4,109,10/14/2023,Saturday
+Atlanta,5,29,10/14/2023,Saturday
+Atlanta,6,29,10/14/2023,Saturday
+Atlanta,7,29,10/14/2023,Saturday
+Atlanta,8,29,10/14/2023,Saturday
+Atlanta,9,39,10/14/2023,Saturday
+Atlanta,10,39,10/14/2023,Saturday
+Atlanta,11,39,10/14/2023,Saturday
+Atlanta,12,39,10/14/2023,Saturday
+Atlanta,13,39,10/14/2023,Saturday
+Atlanta,14,39,10/14/2023,Saturday
+Atlanta,15,39,10/14/2023,Saturday
+Atlanta,16,39,10/14/2023,Saturday
+Atlanta,17,39,10/14/2023,Saturday
+Atlanta,18,39,10/14/2023,Saturday
+Atlanta,19,34,10/14/2023,Saturday
+Atlanta,20,29,10/14/2023,Saturday
+Atlanta,21,29,10/14/2023,Saturday
+Atlanta,22,29,10/14/2023,Saturday
+Atlanta,23,29,10/14/2023,Saturday
+Atlanta,24,29,10/14/2023,Saturday
+Atlanta,25,19,10/14/2023,Saturday
+Atlanta,26,19,10/14/2023,Saturday
+Atlanta,27,19,10/14/2023,Saturday
+Atlanta,28,19,10/14/2023,Saturday
+Atlanta,29,19,10/14/2023,Saturday
+Atlanta,30,19,10/14/2023,Saturday
+Atlanta,31,19,10/14/2023,Saturday
+Atlanta,32,19,10/14/2023,Saturday
+Atlanta,33,19,10/14/2023,Saturday
+Atlanta,34,19,10/14/2023,Saturday
+Atlanta,35,19,10/14/2023,Saturday
+Atlanta,36,19,10/14/2023,Saturday
+Atlanta,37,19,10/14/2023,Saturday
+Atlanta,38,19,10/14/2023,Saturday
+Atlanta,39,19,10/14/2023,Saturday
+Atlanta,40,19,10/14/2023,Saturday
+Atlanta,41,24,10/14/2023,Saturday
+Atlanta,42,24,10/14/2023,Saturday
+Atlanta,43,24,10/14/2023,Saturday
+Atlanta,44,24,10/14/2023,Saturday
+Atlanta,45,29,10/14/2023,Saturday
+Atlanta,46,29,10/14/2023,Saturday
+Atlanta,47,29,10/14/2023,Saturday
+Atlanta,48,34,10/14/2023,Saturday
+Atlanta,49,34,10/14/2023,Saturday
+Atlanta,50,34,10/14/2023,Saturday
+Atlanta,51,29,10/14/2023,Saturday
+Atlanta,52,29,10/14/2023,Saturday
+Atlanta,53,29,10/14/2023,Saturday
+Atlanta,54,29,10/14/2023,Saturday
+Atlanta,55,29,10/14/2023,Saturday
+Atlanta,56,29,10/14/2023,Saturday
+Atlanta,57,29,10/14/2023,Saturday
+Atlanta,58,29,10/14/2023,Saturday
+Atlanta,59,29,10/14/2023,Saturday
+Atlanta,60,29,10/14/2023,Saturday
+Austin,1,200,10/14/2023,Saturday
+Austin,2,200,10/14/2023,Saturday
+Austin,3,200,10/14/2023,Saturday
+Austin,4,200,10/14/2023,Saturday
+Austin,5,200,10/14/2023,Saturday
+Austin,6,174,10/14/2023,Saturday
+Austin,7,174,10/14/2023,Saturday
+Austin,8,174,10/14/2023,Saturday
+Austin,9,174,10/14/2023,Saturday
+Austin,10,174,10/14/2023,Saturday
+Austin,11,174,10/14/2023,Saturday
+Austin,12,164,10/14/2023,Saturday
+Austin,13,149,10/14/2023,Saturday
+Austin,14,149,10/14/2023,Saturday
+Austin,15,149,10/14/2023,Saturday
+Austin,16,149,10/14/2023,Saturday
+Austin,17,149,10/14/2023,Saturday
+Austin,18,149,10/14/2023,Saturday
+Austin,19,149,10/14/2023,Saturday
+Austin,20,129,10/14/2023,Saturday
+Austin,21,129,10/14/2023,Saturday
+Austin,22,89,10/14/2023,Saturday
+Austin,23,89,10/14/2023,Saturday
+Austin,24,89,10/14/2023,Saturday
+Austin,25,89,10/14/2023,Saturday
+Austin,26,89,10/14/2023,Saturday
+Austin,27,89,10/14/2023,Saturday
+Austin,28,89,10/14/2023,Saturday
+Austin,29,89,10/14/2023,Saturday
+Austin,30,89,10/14/2023,Saturday
+Austin,31,89,10/14/2023,Saturday
+Austin,32,89,10/14/2023,Saturday
+Austin,33,89,10/14/2023,Saturday
+Austin,34,89,10/14/2023,Saturday
+Austin,35,89,10/14/2023,Saturday
+Austin,36,89,10/14/2023,Saturday
+Austin,37,89,10/14/2023,Saturday
+Austin,38,89,10/14/2023,Saturday
+Austin,39,89,10/14/2023,Saturday
+Austin,40,89,10/14/2023,Saturday
+Austin,41,89,10/14/2023,Saturday
+Austin,42,89,10/14/2023,Saturday
+Austin,43,89,10/14/2023,Saturday
+Austin,44,89,10/14/2023,Saturday
+Austin,45,89,10/14/2023,Saturday
+Austin,46,89,10/14/2023,Saturday
+Austin,47,89,10/14/2023,Saturday
+Austin,48,89,10/14/2023,Saturday
+Austin,49,89,10/14/2023,Saturday
+Austin,50,89,10/14/2023,Saturday
+Austin,51,89,10/14/2023,Saturday
+Austin,52,89,10/14/2023,Saturday
+Austin,53,89,10/14/2023,Saturday
+Austin,54,89,10/14/2023,Saturday
+Austin,55,89,10/14/2023,Saturday
+Austin,56,89,10/14/2023,Saturday
+Austin,57,89,10/14/2023,Saturday
+Austin,58,89,10/14/2023,Saturday
+Austin,59,89,10/14/2023,Saturday
+Austin,60,89,10/14/2023,Saturday
+Boston,1,264,10/14/2023,Saturday
+Boston,2,204,10/14/2023,Saturday
+Boston,3,204,10/14/2023,Saturday
+Boston,4,204,10/14/2023,Saturday
+Boston,5,204,10/14/2023,Saturday
+Boston,6,204,10/14/2023,Saturday
+Boston,7,174,10/14/2023,Saturday
+Boston,8,174,10/14/2023,Saturday
+Boston,9,174,10/14/2023,Saturday
+Boston,10,154,10/14/2023,Saturday
+Boston,11,144,10/14/2023,Saturday
+Boston,12,144,10/14/2023,Saturday
+Boston,13,124,10/14/2023,Saturday
+Boston,14,99,10/14/2023,Saturday
+Boston,15,109,10/14/2023,Saturday
+Boston,16,99,10/14/2023,Saturday
+Boston,17,99,10/14/2023,Saturday
+Boston,18,109,10/14/2023,Saturday
+Boston,19,99,10/14/2023,Saturday
+Boston,20,79,10/14/2023,Saturday
+Boston,21,79,10/14/2023,Saturday
+Boston,22,79,10/14/2023,Saturday
+Boston,23,79,10/14/2023,Saturday
+Boston,24,79,10/14/2023,Saturday
+Boston,25,79,10/14/2023,Saturday
+Boston,26,79,10/14/2023,Saturday
+Boston,27,79,10/14/2023,Saturday
+Boston,28,79,10/14/2023,Saturday
+Boston,29,79,10/14/2023,Saturday
+Boston,30,79,10/14/2023,Saturday
+Boston,31,79,10/14/2023,Saturday
+Boston,32,79,10/14/2023,Saturday
+Boston,33,79,10/14/2023,Saturday
+Boston,34,79,10/14/2023,Saturday
+Boston,35,79,10/14/2023,Saturday
+Boston,36,49,10/14/2023,Saturday
+Boston,37,49,10/14/2023,Saturday
+Boston,38,49,10/14/2023,Saturday
+Boston,39,49,10/14/2023,Saturday
+Boston,40,49,10/14/2023,Saturday
+Boston,41,79,10/14/2023,Saturday
+Boston,42,79,10/14/2023,Saturday
+Boston,43,79,10/14/2023,Saturday
+Boston,44,99,10/14/2023,Saturday
+Boston,45,79,10/14/2023,Saturday
+Boston,46,79,10/14/2023,Saturday
+Boston,47,79,10/14/2023,Saturday
+Boston,48,79,10/14/2023,Saturday
+Boston,49,79,10/14/2023,Saturday
+Boston,50,79,10/14/2023,Saturday
+Boston,51,79,10/14/2023,Saturday
+Boston,52,79,10/14/2023,Saturday
+Boston,53,79,10/14/2023,Saturday
+Boston,54,79,10/14/2023,Saturday
+Boston,55,79,10/14/2023,Saturday
+Boston,56,79,10/14/2023,Saturday
+Boston,57,79,10/14/2023,Saturday
+Boston,58,79,10/14/2023,Saturday
+Boston,59,79,10/14/2023,Saturday
+Boston,60,79,10/14/2023,Saturday
+Charlotte,1,371,10/14/2023,Saturday
+Charlotte,2,371,10/14/2023,Saturday
+Charlotte,3,371,10/14/2023,Saturday
+Charlotte,4,371,10/14/2023,Saturday
+Charlotte,5,371,10/14/2023,Saturday
+Charlotte,6,326,10/14/2023,Saturday
+Charlotte,7,326,10/14/2023,Saturday
+Charlotte,8,326,10/14/2023,Saturday
+Charlotte,9,326,10/14/2023,Saturday
+Charlotte,10,326,10/14/2023,Saturday
+Charlotte,11,326,10/14/2023,Saturday
+Charlotte,12,316,10/14/2023,Saturday
+Charlotte,13,270,10/14/2023,Saturday
+Charlotte,14,270,10/14/2023,Saturday
+Charlotte,15,270,10/14/2023,Saturday
+Charlotte,16,270,10/14/2023,Saturday
+Charlotte,17,270,10/14/2023,Saturday
+Charlotte,18,270,10/14/2023,Saturday
+Charlotte,19,270,10/14/2023,Saturday
+Charlotte,20,245,10/14/2023,Saturday
+Charlotte,21,245,10/14/2023,Saturday
+Charlotte,22,245,10/14/2023,Saturday
+Charlotte,23,245,10/14/2023,Saturday
+Charlotte,24,245,10/14/2023,Saturday
+Charlotte,25,245,10/14/2023,Saturday
+Charlotte,26,245,10/14/2023,Saturday
+Charlotte,27,245,10/14/2023,Saturday
+Charlotte,28,245,10/14/2023,Saturday
+Charlotte,29,235,10/14/2023,Saturday
+Charlotte,30,235,10/14/2023,Saturday
+Charlotte,31,235,10/14/2023,Saturday
+Charlotte,32,235,10/14/2023,Saturday
+Charlotte,33,235,10/14/2023,Saturday
+Charlotte,34,235,10/14/2023,Saturday
+Charlotte,35,235,10/14/2023,Saturday
+Charlotte,36,235,10/14/2023,Saturday
+Charlotte,37,235,10/14/2023,Saturday
+Charlotte,38,235,10/14/2023,Saturday
+Charlotte,39,235,10/14/2023,Saturday
+Charlotte,40,235,10/14/2023,Saturday
+Charlotte,41,235,10/14/2023,Saturday
+Charlotte,42,235,10/14/2023,Saturday
+Charlotte,43,235,10/14/2023,Saturday
+Charlotte,44,235,10/14/2023,Saturday
+Charlotte,45,235,10/14/2023,Saturday
+Charlotte,46,235,10/14/2023,Saturday
+Charlotte,47,235,10/14/2023,Saturday
+Charlotte,48,235,10/14/2023,Saturday
+Charlotte,49,235,10/14/2023,Saturday
+Charlotte,50,235,10/14/2023,Saturday
+Charlotte,51,235,10/14/2023,Saturday
+Charlotte,52,235,10/14/2023,Saturday
+Charlotte,53,235,10/14/2023,Saturday
+Charlotte,54,235,10/14/2023,Saturday
+Charlotte,55,235,10/14/2023,Saturday
+Charlotte,56,235,10/14/2023,Saturday
+Charlotte,57,235,10/14/2023,Saturday
+Charlotte,58,235,10/14/2023,Saturday
+Charlotte,59,235,10/14/2023,Saturday
+Charlotte,60,235,10/14/2023,Saturday
+Chicago,1,149,10/14/2023,Saturday
+Chicago,2,119,10/14/2023,Saturday
+Chicago,3,119,10/14/2023,Saturday
+Chicago,4,119,10/14/2023,Saturday
+Chicago,5,39,10/14/2023,Saturday
+Chicago,6,39,10/14/2023,Saturday
+Chicago,7,39,10/14/2023,Saturday
+Chicago,8,39,10/14/2023,Saturday
+Chicago,9,44,10/14/2023,Saturday
+Chicago,10,44,10/14/2023,Saturday
+Chicago,11,34,10/14/2023,Saturday
+Chicago,12,19,10/14/2023,Saturday
+Chicago,13,19,10/14/2023,Saturday
+Chicago,14,19,10/14/2023,Saturday
+Chicago,15,19,10/14/2023,Saturday
+Chicago,16,19,10/14/2023,Saturday
+Chicago,17,19,10/14/2023,Saturday
+Chicago,18,19,10/14/2023,Saturday
+Chicago,19,19,10/14/2023,Saturday
+Chicago,20,19,10/14/2023,Saturday
+Chicago,21,19,10/14/2023,Saturday
+Chicago,22,19,10/14/2023,Saturday
+Chicago,23,19,10/14/2023,Saturday
+Chicago,24,19,10/14/2023,Saturday
+Chicago,25,19,10/14/2023,Saturday
+Chicago,26,19,10/14/2023,Saturday
+Chicago,27,19,10/14/2023,Saturday
+Chicago,28,19,10/14/2023,Saturday
+Chicago,29,19,10/14/2023,Saturday
+Chicago,30,19,10/14/2023,Saturday
+Chicago,31,19,10/14/2023,Saturday
+Chicago,32,19,10/14/2023,Saturday
+Chicago,33,19,10/14/2023,Saturday
+Chicago,34,19,10/14/2023,Saturday
+Chicago,35,19,10/14/2023,Saturday
+Chicago,36,19,10/14/2023,Saturday
+Chicago,37,19,10/14/2023,Saturday
+Chicago,38,19,10/14/2023,Saturday
+Chicago,39,19,10/14/2023,Saturday
+Chicago,40,19,10/14/2023,Saturday
+Chicago,41,29,10/14/2023,Saturday
+Chicago,42,29,10/14/2023,Saturday
+Chicago,43,29,10/14/2023,Saturday
+Chicago,44,29,10/14/2023,Saturday
+Chicago,45,29,10/14/2023,Saturday
+Chicago,46,29,10/14/2023,Saturday
+Chicago,47,29,10/14/2023,Saturday
+Chicago,48,39,10/14/2023,Saturday
+Chicago,49,39,10/14/2023,Saturday
+Chicago,50,39,10/14/2023,Saturday
+Chicago,51,39,10/14/2023,Saturday
+Chicago,52,39,10/14/2023,Saturday
+Chicago,53,39,10/14/2023,Saturday
+Chicago,54,39,10/14/2023,Saturday
+Chicago,55,39,10/14/2023,Saturday
+Chicago,56,39,10/14/2023,Saturday
+Chicago,57,39,10/14/2023,Saturday
+Chicago,58,39,10/14/2023,Saturday
+Chicago,59,39,10/14/2023,Saturday
+Chicago,60,39,10/14/2023,Saturday
+Cincinati,1,369,10/14/2023,Saturday
+Cincinati,2,369,10/14/2023,Saturday
+Cincinati,3,369,10/14/2023,Saturday
+Cincinati,4,369,10/14/2023,Saturday
+Cincinati,5,369,10/14/2023,Saturday
+Cincinati,6,185,10/14/2023,Saturday
+Cincinati,7,185,10/14/2023,Saturday
+Cincinati,8,185,10/14/2023,Saturday
+Cincinati,9,185,10/14/2023,Saturday
+Cincinati,10,185,10/14/2023,Saturday
+Cincinati,11,185,10/14/2023,Saturday
+Cincinati,12,175,10/14/2023,Saturday
+Cincinati,13,155,10/14/2023,Saturday
+Cincinati,14,155,10/14/2023,Saturday
+Cincinati,15,79,10/14/2023,Saturday
+Cincinati,16,155,10/14/2023,Saturday
+Cincinati,17,155,10/14/2023,Saturday
+Cincinati,18,155,10/14/2023,Saturday
+Cincinati,19,155,10/14/2023,Saturday
+Cincinati,20,140,10/14/2023,Saturday
+Cincinati,21,140,10/14/2023,Saturday
+Cincinati,22,99,10/14/2023,Saturday
+Cincinati,23,99,10/14/2023,Saturday
+Cincinati,24,99,10/14/2023,Saturday
+Cincinati,25,99,10/14/2023,Saturday
+Cincinati,26,104,10/14/2023,Saturday
+Cincinati,27,104,10/14/2023,Saturday
+Cincinati,28,104,10/14/2023,Saturday
+Cincinati,29,104,10/14/2023,Saturday
+Cincinati,30,104,10/14/2023,Saturday
+Cincinati,31,104,10/14/2023,Saturday
+Cincinati,32,104,10/14/2023,Saturday
+Cincinati,33,104,10/14/2023,Saturday
+Cincinati,34,104,10/14/2023,Saturday
+Cincinati,35,104,10/14/2023,Saturday
+Cincinati,36,104,10/14/2023,Saturday
+Cincinati,37,104,10/14/2023,Saturday
+Cincinati,38,104,10/14/2023,Saturday
+Cincinati,39,104,10/14/2023,Saturday
+Cincinati,40,104,10/14/2023,Saturday
+Cincinati,41,104,10/14/2023,Saturday
+Cincinati,42,104,10/14/2023,Saturday
+Cincinati,43,104,10/14/2023,Saturday
+Cincinati,44,104,10/14/2023,Saturday
+Cincinati,45,140,10/14/2023,Saturday
+Cincinati,46,140,10/14/2023,Saturday
+Cincinati,47,140,10/14/2023,Saturday
+Cincinati,48,140,10/14/2023,Saturday
+Cincinati,49,140,10/14/2023,Saturday
+Cincinati,50,109,10/14/2023,Saturday
+Cincinati,51,109,10/14/2023,Saturday
+Cincinati,52,109,10/14/2023,Saturday
+Cincinati,53,109,10/14/2023,Saturday
+Cincinati,54,109,10/14/2023,Saturday
+Cincinati,55,109,10/14/2023,Saturday
+Cincinati,56,109,10/14/2023,Saturday
+Cincinati,57,109,10/14/2023,Saturday
+Cincinati,58,109,10/14/2023,Saturday
+Cincinati,59,109,10/14/2023,Saturday
+Cincinati,60,109,10/14/2023,Saturday
+Dallas,1,179,10/14/2023,Saturday
+Dallas,2,179,10/14/2023,Saturday
+Dallas,3,179,10/14/2023,Saturday
+Dallas,4,179,10/14/2023,Saturday
+Dallas,5,179,10/14/2023,Saturday
+Dallas,6,49,10/14/2023,Saturday
+Dallas,7,49,10/14/2023,Saturday
+Dallas,8,49,10/14/2023,Saturday
+Dallas,9,79,10/14/2023,Saturday
+Dallas,10,79,10/14/2023,Saturday
+Dallas,11,69,10/14/2023,Saturday
+Dallas,12,49,10/14/2023,Saturday
+Dallas,13,49,10/14/2023,Saturday
+Dallas,14,49,10/14/2023,Saturday
+Dallas,15,49,10/14/2023,Saturday
+Dallas,16,49,10/14/2023,Saturday
+Dallas,17,49,10/14/2023,Saturday
+Dallas,18,49,10/14/2023,Saturday
+Dallas,19,34,10/14/2023,Saturday
+Dallas,20,34,10/14/2023,Saturday
+Dallas,21,34,10/14/2023,Saturday
+Dallas,22,34,10/14/2023,Saturday
+Dallas,23,44,10/14/2023,Saturday
+Dallas,24,44,10/14/2023,Saturday
+Dallas,25,19,10/14/2023,Saturday
+Dallas,26,19,10/14/2023,Saturday
+Dallas,27,19,10/14/2023,Saturday
+Dallas,28,19,10/14/2023,Saturday
+Dallas,29,19,10/14/2023,Saturday
+Dallas,30,19,10/14/2023,Saturday
+Dallas,31,19,10/14/2023,Saturday
+Dallas,32,19,10/14/2023,Saturday
+Dallas,33,19,10/14/2023,Saturday
+Dallas,34,19,10/14/2023,Saturday
+Dallas,35,19,10/14/2023,Saturday
+Dallas,36,19,10/14/2023,Saturday
+Dallas,37,19,10/14/2023,Saturday
+Dallas,38,19,10/14/2023,Saturday
+Dallas,39,19,10/14/2023,Saturday
+Dallas,40,19,10/14/2023,Saturday
+Dallas,41,34,10/14/2023,Saturday
+Dallas,42,34,10/14/2023,Saturday
+Dallas,43,29,10/14/2023,Saturday
+Dallas,44,29,10/14/2023,Saturday
+Dallas,45,29,10/14/2023,Saturday
+Dallas,46,29,10/14/2023,Saturday
+Dallas,47,29,10/14/2023,Saturday
+Dallas,48,39,10/14/2023,Saturday
+Dallas,49,39,10/14/2023,Saturday
+Dallas,50,39,10/14/2023,Saturday
+Dallas,51,39,10/14/2023,Saturday
+Dallas,52,39,10/14/2023,Saturday
+Dallas,53,39,10/14/2023,Saturday
+Dallas,54,39,10/14/2023,Saturday
+Dallas,55,39,10/14/2023,Saturday
+Dallas,56,39,10/14/2023,Saturday
+Dallas,57,39,10/14/2023,Saturday
+Dallas,58,39,10/14/2023,Saturday
+Dallas,59,39,10/14/2023,Saturday
+Dallas,60,59,10/14/2023,Saturday
+Denver,1,169,10/14/2023,Saturday
+Denver,2,169,10/14/2023,Saturday
+Denver,3,169,10/14/2023,Saturday
+Denver,4,169,10/14/2023,Saturday
+Denver,5,59,10/14/2023,Saturday
+Denver,6,59,10/14/2023,Saturday
+Denver,7,59,10/14/2023,Saturday
+Denver,8,59,10/14/2023,Saturday
+Denver,9,62,10/14/2023,Saturday
+Denver,10,62,10/14/2023,Saturday
+Denver,11,62,10/14/2023,Saturday
+Denver,12,59,10/14/2023,Saturday
+Denver,13,59,10/14/2023,Saturday
+Denver,14,59,10/14/2023,Saturday
+Denver,15,59,10/14/2023,Saturday
+Denver,16,59,10/14/2023,Saturday
+Denver,17,59,10/14/2023,Saturday
+Denver,18,59,10/14/2023,Saturday
+Denver,19,19,10/14/2023,Saturday
+Denver,20,19,10/14/2023,Saturday
+Denver,21,19,10/14/2023,Saturday
+Denver,22,19,10/14/2023,Saturday
+Denver,23,29,10/14/2023,Saturday
+Denver,24,29,10/14/2023,Saturday
+Denver,25,29,10/14/2023,Saturday
+Denver,26,29,10/14/2023,Saturday
+Denver,27,29,10/14/2023,Saturday
+Denver,28,29,10/14/2023,Saturday
+Denver,29,29,10/14/2023,Saturday
+Denver,30,34,10/14/2023,Saturday
+Denver,31,39,10/14/2023,Saturday
+Denver,32,39,10/14/2023,Saturday
+Denver,33,39,10/14/2023,Saturday
+Denver,34,39,10/14/2023,Saturday
+Denver,35,39,10/14/2023,Saturday
+Denver,36,39,10/14/2023,Saturday
+Denver,37,39,10/14/2023,Saturday
+Denver,38,39,10/14/2023,Saturday
+Denver,39,39,10/14/2023,Saturday
+Denver,40,39,10/14/2023,Saturday
+Denver,41,39,10/14/2023,Saturday
+Denver,42,39,10/14/2023,Saturday
+Denver,43,39,10/14/2023,Saturday
+Denver,44,39,10/14/2023,Saturday
+Denver,45,49,10/14/2023,Saturday
+Denver,46,49,10/14/2023,Saturday
+Denver,47,49,10/14/2023,Saturday
+Denver,48,49,10/14/2023,Saturday
+Denver,49,49,10/14/2023,Saturday
+Denver,50,49,10/14/2023,Saturday
+Denver,51,49,10/14/2023,Saturday
+Denver,52,49,10/14/2023,Saturday
+Denver,53,49,10/14/2023,Saturday
+Denver,54,49,10/14/2023,Saturday
+Denver,55,49,10/14/2023,Saturday
+Denver,56,49,10/14/2023,Saturday
+Denver,57,49,10/14/2023,Saturday
+Denver,58,49,10/14/2023,Saturday
+Denver,59,49,10/14/2023,Saturday
+Denver,60,49,10/14/2023,Saturday
+Fort Lauderdale,1,103,10/14/2023,Saturday
+Fort Lauderdale,2,39,10/14/2023,Saturday
+Fort Lauderdale,3,39,10/14/2023,Saturday
+Fort Lauderdale,4,39,10/14/2023,Saturday
+Fort Lauderdale,5,39,10/14/2023,Saturday
+Fort Lauderdale,6,39,10/14/2023,Saturday
+Fort Lauderdale,7,39,10/14/2023,Saturday
+Fort Lauderdale,8,39,10/14/2023,Saturday
+Fort Lauderdale,9,39,10/14/2023,Saturday
+Fort Lauderdale,10,39,10/14/2023,Saturday
+Fort Lauderdale,11,39,10/14/2023,Saturday
+Fort Lauderdale,12,39,10/14/2023,Saturday
+Fort Lauderdale,13,24,10/14/2023,Saturday
+Fort Lauderdale,14,24,10/14/2023,Saturday
+Fort Lauderdale,15,24,10/14/2023,Saturday
+Fort Lauderdale,16,24,10/14/2023,Saturday
+Fort Lauderdale,17,24,10/14/2023,Saturday
+Fort Lauderdale,18,24,10/14/2023,Saturday
+Fort Lauderdale,19,24,10/14/2023,Saturday
+Fort Lauderdale,20,24,10/14/2023,Saturday
+Fort Lauderdale,21,39,10/14/2023,Saturday
+Fort Lauderdale,22,39,10/14/2023,Saturday
+Fort Lauderdale,23,39,10/14/2023,Saturday
+Fort Lauderdale,24,39,10/14/2023,Saturday
+Fort Lauderdale,25,27,10/14/2023,Saturday
+Fort Lauderdale,26,27,10/14/2023,Saturday
+Fort Lauderdale,27,27,10/14/2023,Saturday
+Fort Lauderdale,28,27,10/14/2023,Saturday
+Fort Lauderdale,29,24,10/14/2023,Saturday
+Fort Lauderdale,30,24,10/14/2023,Saturday
+Fort Lauderdale,31,24,10/14/2023,Saturday
+Fort Lauderdale,32,24,10/14/2023,Saturday
+Fort Lauderdale,33,24,10/14/2023,Saturday
+Fort Lauderdale,34,24,10/14/2023,Saturday
+Fort Lauderdale,35,24,10/14/2023,Saturday
+Fort Lauderdale,36,24,10/14/2023,Saturday
+Fort Lauderdale,37,24,10/14/2023,Saturday
+Fort Lauderdale,38,24,10/14/2023,Saturday
+Fort Lauderdale,39,24,10/14/2023,Saturday
+Fort Lauderdale,40,24,10/14/2023,Saturday
+Fort Lauderdale,41,24,10/14/2023,Saturday
+Fort Lauderdale,42,24,10/14/2023,Saturday
+Fort Lauderdale,43,24,10/14/2023,Saturday
+Fort Lauderdale,44,24,10/14/2023,Saturday
+Fort Lauderdale,45,24,10/14/2023,Saturday
+Fort Lauderdale,46,24,10/14/2023,Saturday
+Fort Lauderdale,47,24,10/14/2023,Saturday
+Fort Lauderdale,48,24,10/14/2023,Saturday
+Fort Lauderdale,49,24,10/14/2023,Saturday
+Fort Lauderdale,50,24,10/14/2023,Saturday
+Fort Lauderdale,51,24,10/14/2023,Saturday
+Fort Lauderdale,52,24,10/14/2023,Saturday
+Fort Lauderdale,53,24,10/14/2023,Saturday
+Fort Lauderdale,54,24,10/14/2023,Saturday
+Fort Lauderdale,55,24,10/14/2023,Saturday
+Fort Lauderdale,56,24,10/14/2023,Saturday
+Fort Lauderdale,57,24,10/14/2023,Saturday
+Fort Lauderdale,58,24,10/14/2023,Saturday
+Fort Lauderdale,59,24,10/14/2023,Saturday
+Fort Lauderdale,60,24,10/14/2023,Saturday
+Detroit,1,469,10/14/2023,Saturday
+Detroit,2,469,10/14/2023,Saturday
+Detroit,3,469,10/14/2023,Saturday
+Detroit,4,469,10/14/2023,Saturday
+Detroit,5,469,10/14/2023,Saturday
+Detroit,6,369,10/14/2023,Saturday
+Detroit,7,369,10/14/2023,Saturday
+Detroit,8,369,10/14/2023,Saturday
+Detroit,9,369,10/14/2023,Saturday
+Detroit,10,369,10/14/2023,Saturday
+Detroit,11,369,10/14/2023,Saturday
+Detroit,12,359,10/14/2023,Saturday
+Detroit,13,309,10/14/2023,Saturday
+Detroit,14,309,10/14/2023,Saturday
+Detroit,15,309,10/14/2023,Saturday
+Detroit,16,309,10/14/2023,Saturday
+Detroit,17,309,10/14/2023,Saturday
+Detroit,18,309,10/14/2023,Saturday
+Detroit,19,309,10/14/2023,Saturday
+Detroit,20,279,10/14/2023,Saturday
+Detroit,21,279,10/14/2023,Saturday
+Detroit,22,279,10/14/2023,Saturday
+Detroit,23,279,10/14/2023,Saturday
+Detroit,24,279,10/14/2023,Saturday
+Detroit,25,279,10/14/2023,Saturday
+Detroit,26,279,10/14/2023,Saturday
+Detroit,27,279,10/14/2023,Saturday
+Detroit,28,279,10/14/2023,Saturday
+Detroit,29,259,10/14/2023,Saturday
+Detroit,30,259,10/14/2023,Saturday
+Detroit,31,259,10/14/2023,Saturday
+Detroit,32,259,10/14/2023,Saturday
+Detroit,33,259,10/14/2023,Saturday
+Detroit,34,259,10/14/2023,Saturday
+Detroit,35,259,10/14/2023,Saturday
+Detroit,36,259,10/14/2023,Saturday
+Detroit,37,259,10/14/2023,Saturday
+Detroit,38,259,10/14/2023,Saturday
+Detroit,39,259,10/14/2023,Saturday
+Detroit,40,259,10/14/2023,Saturday
+Detroit,41,259,10/14/2023,Saturday
+Detroit,42,259,10/14/2023,Saturday
+Detroit,43,259,10/14/2023,Saturday
+Detroit,44,259,10/14/2023,Saturday
+Detroit,45,259,10/14/2023,Saturday
+Detroit,46,259,10/14/2023,Saturday
+Detroit,47,259,10/14/2023,Saturday
+Detroit,48,259,10/14/2023,Saturday
+Detroit,49,259,10/14/2023,Saturday
+Detroit,50,259,10/14/2023,Saturday
+Detroit,51,259,10/14/2023,Saturday
+Detroit,52,259,10/14/2023,Saturday
+Detroit,53,259,10/14/2023,Saturday
+Detroit,54,259,10/14/2023,Saturday
+Detroit,55,259,10/14/2023,Saturday
+Detroit,56,259,10/14/2023,Saturday
+Detroit,57,259,10/14/2023,Saturday
+Detroit,58,259,10/14/2023,Saturday
+Detroit,59,259,10/14/2023,Saturday
+Detroit,60,259,10/14/2023,Saturday
+Houston,1,463,10/14/2023,Saturday
+Houston,2,463,10/14/2023,Saturday
+Houston,3,463,10/14/2023,Saturday
+Houston,4,463,10/14/2023,Saturday
+Houston,5,463,10/14/2023,Saturday
+Houston,6,209,10/14/2023,Saturday
+Houston,7,209,10/14/2023,Saturday
+Houston,8,209,10/14/2023,Saturday
+Houston,9,209,10/14/2023,Saturday
+Houston,10,209,10/14/2023,Saturday
+Houston,11,209,10/14/2023,Saturday
+Houston,12,199,10/14/2023,Saturday
+Houston,13,149,10/14/2023,Saturday
+Houston,14,149,10/14/2023,Saturday
+Houston,15,149,10/14/2023,Saturday
+Houston,16,149,10/14/2023,Saturday
+Houston,17,149,10/14/2023,Saturday
+Houston,18,149,10/14/2023,Saturday
+Houston,19,149,10/14/2023,Saturday
+Houston,20,129,10/14/2023,Saturday
+Houston,21,129,10/14/2023,Saturday
+Houston,22,129,10/14/2023,Saturday
+Houston,23,129,10/14/2023,Saturday
+Houston,24,129,10/14/2023,Saturday
+Houston,25,129,10/14/2023,Saturday
+Houston,26,129,10/14/2023,Saturday
+Houston,27,129,10/14/2023,Saturday
+Houston,28,129,10/14/2023,Saturday
+Houston,29,129,10/14/2023,Saturday
+Houston,30,129,10/14/2023,Saturday
+Houston,31,129,10/14/2023,Saturday
+Houston,32,129,10/14/2023,Saturday
+Houston,33,129,10/14/2023,Saturday
+Houston,34,129,10/14/2023,Saturday
+Houston,35,129,10/14/2023,Saturday
+Houston,36,139,10/14/2023,Saturday
+Houston,37,139,10/14/2023,Saturday
+Houston,38,159,10/14/2023,Saturday
+Houston,39,159,10/14/2023,Saturday
+Houston,40,158,10/14/2023,Saturday
+Houston,41,129,10/14/2023,Saturday
+Houston,42,129,10/14/2023,Saturday
+Houston,43,129,10/14/2023,Saturday
+Houston,44,137,10/14/2023,Saturday
+Houston,45,136,10/14/2023,Saturday
+Houston,46,136,10/14/2023,Saturday
+Houston,47,136,10/14/2023,Saturday
+Houston,48,136,10/14/2023,Saturday
+Houston,49,139,10/14/2023,Saturday
+Houston,50,139,10/14/2023,Saturday
+Houston,51,129,10/14/2023,Saturday
+Houston,52,129,10/14/2023,Saturday
+Houston,53,129,10/14/2023,Saturday
+Houston,54,129,10/14/2023,Saturday
+Houston,55,129,10/14/2023,Saturday
+Houston,56,129,10/14/2023,Saturday
+Houston,57,129,10/14/2023,Saturday
+Houston,58,129,10/14/2023,Saturday
+Houston,59,129,10/14/2023,Saturday
+Houston,60,129,10/14/2023,Saturday
+Las Vegas,1,439,10/14/2023,Saturday
+Las Vegas,2,439,10/14/2023,Saturday
+Las Vegas,3,439,10/14/2023,Saturday
+Las Vegas,4,439,10/14/2023,Saturday
+Las Vegas,5,439,10/14/2023,Saturday
+Las Vegas,6,439,10/14/2023,Saturday
+Las Vegas,7,439,10/14/2023,Saturday
+Las Vegas,8,389,10/14/2023,Saturday
+Las Vegas,9,389,10/14/2023,Saturday
+Las Vegas,10,389,10/14/2023,Saturday
+Las Vegas,11,389,10/14/2023,Saturday
+Las Vegas,12,379,10/14/2023,Saturday
+Las Vegas,13,289,10/14/2023,Saturday
+Las Vegas,14,289,10/14/2023,Saturday
+Las Vegas,15,289,10/14/2023,Saturday
+Las Vegas,16,289,10/14/2023,Saturday
+Las Vegas,17,289,10/14/2023,Saturday
+Las Vegas,18,289,10/14/2023,Saturday
+Las Vegas,19,289,10/14/2023,Saturday
+Las Vegas,20,289,10/14/2023,Saturday
+Las Vegas,21,289,10/14/2023,Saturday
+Las Vegas,22,239,10/14/2023,Saturday
+Las Vegas,23,239,10/14/2023,Saturday
+Las Vegas,24,239,10/14/2023,Saturday
+Las Vegas,25,189,10/14/2023,Saturday
+Las Vegas,26,189,10/14/2023,Saturday
+Las Vegas,27,189,10/14/2023,Saturday
+Las Vegas,28,189,10/14/2023,Saturday
+Las Vegas,29,189,10/14/2023,Saturday
+Las Vegas,30,189,10/14/2023,Saturday
+Las Vegas,31,189,10/14/2023,Saturday
+Las Vegas,32,189,10/14/2023,Saturday
+Las Vegas,33,409,10/14/2023,Saturday
+Las Vegas,34,409,10/14/2023,Saturday
+Las Vegas,35,409,10/14/2023,Saturday
+Las Vegas,36,289,10/14/2023,Saturday
+Las Vegas,37,289,10/14/2023,Saturday
+Las Vegas,38,239,10/14/2023,Saturday
+Las Vegas,39,239,10/14/2023,Saturday
+Las Vegas,40,289,10/14/2023,Saturday
+Las Vegas,41,239,10/14/2023,Saturday
+Las Vegas,42,239,10/14/2023,Saturday
+Las Vegas,43,289,10/14/2023,Saturday
+Las Vegas,44,289,10/14/2023,Saturday
+Las Vegas,45,249,10/14/2023,Saturday
+Las Vegas,46,249,10/14/2023,Saturday
+Las Vegas,47,249,10/14/2023,Saturday
+Las Vegas,48,249,10/14/2023,Saturday
+Las Vegas,49,209,10/14/2023,Saturday
+Las Vegas,50,209,10/14/2023,Saturday
+Las Vegas,51,249,10/14/2023,Saturday
+Las Vegas,52,69,10/14/2023,Saturday
+Las Vegas,53,69,10/14/2023,Saturday
+Las Vegas,54,69,10/14/2023,Saturday
+Las Vegas,55,69,10/14/2023,Saturday
+Las Vegas,56,69,10/14/2023,Saturday
+Las Vegas,57,69,10/14/2023,Saturday
+Las Vegas,58,69,10/14/2023,Saturday
+Las Vegas,59,69,10/14/2023,Saturday
+Las Vegas,60,75,10/14/2023,Saturday
+Los Angeles,1,469,10/14/2023,Saturday
+Los Angeles,2,349,10/14/2023,Saturday
+Los Angeles,3,349,10/14/2023,Saturday
+Los Angeles,4,349,10/14/2023,Saturday
+Los Angeles,5,179,10/14/2023,Saturday
+Los Angeles,6,145,10/14/2023,Saturday
+Los Angeles,7,109,10/14/2023,Saturday
+Los Angeles,8,109,10/14/2023,Saturday
+Los Angeles,9,139,10/14/2023,Saturday
+Los Angeles,10,109,10/14/2023,Saturday
+Los Angeles,11,109,10/14/2023,Saturday
+Los Angeles,12,109,10/14/2023,Saturday
+Los Angeles,13,155,10/14/2023,Saturday
+Los Angeles,14,155,10/14/2023,Saturday
+Los Angeles,15,155,10/14/2023,Saturday
+Los Angeles,16,149,10/14/2023,Saturday
+Los Angeles,17,145,10/14/2023,Saturday
+Los Angeles,18,145,10/14/2023,Saturday
+Los Angeles,19,145,10/14/2023,Saturday
+Los Angeles,20,149,10/14/2023,Saturday
+Los Angeles,21,145,10/14/2023,Saturday
+Los Angeles,22,145,10/14/2023,Saturday
+Los Angeles,23,139,10/14/2023,Saturday
+Los Angeles,24,139,10/14/2023,Saturday
+Los Angeles,25,79,10/14/2023,Saturday
+Los Angeles,26,79,10/14/2023,Saturday
+Los Angeles,27,79,10/14/2023,Saturday
+Los Angeles,28,79,10/14/2023,Saturday
+Los Angeles,29,79,10/14/2023,Saturday
+Los Angeles,30,79,10/14/2023,Saturday
+Los Angeles,31,79,10/14/2023,Saturday
+Los Angeles,32,79,10/14/2023,Saturday
+Los Angeles,33,79,10/14/2023,Saturday
+Los Angeles,34,79,10/14/2023,Saturday
+Los Angeles,35,125,10/14/2023,Saturday
+Los Angeles,36,125,10/14/2023,Saturday
+Los Angeles,37,151,10/14/2023,Saturday
+Los Angeles,38,144,10/14/2023,Saturday
+Los Angeles,39,144,10/14/2023,Saturday
+Los Angeles,40,144,10/14/2023,Saturday
+Los Angeles,41,129,10/14/2023,Saturday
+Los Angeles,42,129,10/14/2023,Saturday
+Los Angeles,43,99,10/14/2023,Saturday
+Los Angeles,44,99,10/14/2023,Saturday
+Los Angeles,45,99,10/14/2023,Saturday
+Los Angeles,46,109,10/14/2023,Saturday
+Los Angeles,47,109,10/14/2023,Saturday
+Los Angeles,48,109,10/14/2023,Saturday
+Los Angeles,49,135,10/14/2023,Saturday
+Los Angeles,50,135,10/14/2023,Saturday
+Los Angeles,51,135,10/14/2023,Saturday
+Los Angeles,52,135,10/14/2023,Saturday
+Los Angeles,53,135,10/14/2023,Saturday
+Los Angeles,54,135,10/14/2023,Saturday
+Los Angeles,55,135,10/14/2023,Saturday
+Los Angeles,56,135,10/14/2023,Saturday
+Los Angeles,57,135,10/14/2023,Saturday
+Los Angeles,58,135,10/14/2023,Saturday
+Los Angeles,59,135,10/14/2023,Saturday
+Los Angeles,60,135,10/14/2023,Saturday
+Miami,1,103,10/14/2023,Saturday
+Miami,2,39,10/14/2023,Saturday
+Miami,3,39,10/14/2023,Saturday
+Miami,4,39,10/14/2023,Saturday
+Miami,5,39,10/14/2023,Saturday
+Miami,6,39,10/14/2023,Saturday
+Miami,7,39,10/14/2023,Saturday
+Miami,8,39,10/14/2023,Saturday
+Miami,9,39,10/14/2023,Saturday
+Miami,10,39,10/14/2023,Saturday
+Miami,11,39,10/14/2023,Saturday
+Miami,12,39,10/14/2023,Saturday
+Miami,13,24,10/14/2023,Saturday
+Miami,14,24,10/14/2023,Saturday
+Miami,15,24,10/14/2023,Saturday
+Miami,16,24,10/14/2023,Saturday
+Miami,17,24,10/14/2023,Saturday
+Miami,18,24,10/14/2023,Saturday
+Miami,19,24,10/14/2023,Saturday
+Miami,20,24,10/14/2023,Saturday
+Miami,21,39,10/14/2023,Saturday
+Miami,22,39,10/14/2023,Saturday
+Miami,23,39,10/14/2023,Saturday
+Miami,24,39,10/14/2023,Saturday
+Miami,25,27,10/14/2023,Saturday
+Miami,26,27,10/14/2023,Saturday
+Miami,27,27,10/14/2023,Saturday
+Miami,28,27,10/14/2023,Saturday
+Miami,29,24,10/14/2023,Saturday
+Miami,30,24,10/14/2023,Saturday
+Miami,31,24,10/14/2023,Saturday
+Miami,32,24,10/14/2023,Saturday
+Miami,33,24,10/14/2023,Saturday
+Miami,34,24,10/14/2023,Saturday
+Miami,35,24,10/14/2023,Saturday
+Miami,36,24,10/14/2023,Saturday
+Miami,37,24,10/14/2023,Saturday
+Miami,38,24,10/14/2023,Saturday
+Miami,39,24,10/14/2023,Saturday
+Miami,40,24,10/14/2023,Saturday
+Miami,41,24,10/14/2023,Saturday
+Miami,42,24,10/14/2023,Saturday
+Miami,43,24,10/14/2023,Saturday
+Miami,44,24,10/14/2023,Saturday
+Miami,45,24,10/14/2023,Saturday
+Miami,46,24,10/14/2023,Saturday
+Miami,47,24,10/14/2023,Saturday
+Miami,48,24,10/14/2023,Saturday
+Miami,49,24,10/14/2023,Saturday
+Miami,50,24,10/14/2023,Saturday
+Miami,51,24,10/14/2023,Saturday
+Miami,52,24,10/14/2023,Saturday
+Miami,53,24,10/14/2023,Saturday
+Miami,54,24,10/14/2023,Saturday
+Miami,55,24,10/14/2023,Saturday
+Miami,56,24,10/14/2023,Saturday
+Miami,57,24,10/14/2023,Saturday
+Miami,58,24,10/14/2023,Saturday
+Miami,59,24,10/14/2023,Saturday
+Miami,60,24,10/14/2023,Saturday
+Minneapolis,1,519,10/14/2023,Saturday
+Minneapolis,2,519,10/14/2023,Saturday
+Minneapolis,3,519,10/14/2023,Saturday
+Minneapolis,4,519,10/14/2023,Saturday
+Minneapolis,5,519,10/14/2023,Saturday
+Minneapolis,6,419,10/14/2023,Saturday
+Minneapolis,7,419,10/14/2023,Saturday
+Minneapolis,8,419,10/14/2023,Saturday
+Minneapolis,9,419,10/14/2023,Saturday
+Minneapolis,10,419,10/14/2023,Saturday
+Minneapolis,11,419,10/14/2023,Saturday
+Minneapolis,12,409,10/14/2023,Saturday
+Minneapolis,13,309,10/14/2023,Saturday
+Minneapolis,14,309,10/14/2023,Saturday
+Minneapolis,15,309,10/14/2023,Saturday
+Minneapolis,16,309,10/14/2023,Saturday
+Minneapolis,17,309,10/14/2023,Saturday
+Minneapolis,18,309,10/14/2023,Saturday
+Minneapolis,19,309,10/14/2023,Saturday
+Minneapolis,20,219,10/14/2023,Saturday
+Minneapolis,21,219,10/14/2023,Saturday
+Minneapolis,22,219,10/14/2023,Saturday
+Minneapolis,23,219,10/14/2023,Saturday
+Minneapolis,24,219,10/14/2023,Saturday
+Minneapolis,25,219,10/14/2023,Saturday
+Minneapolis,26,219,10/14/2023,Saturday
+Minneapolis,27,219,10/14/2023,Saturday
+Minneapolis,28,219,10/14/2023,Saturday
+Minneapolis,29,199,10/14/2023,Saturday
+Minneapolis,30,199,10/14/2023,Saturday
+Minneapolis,31,199,10/14/2023,Saturday
+Minneapolis,32,199,10/14/2023,Saturday
+Minneapolis,33,199,10/14/2023,Saturday
+Minneapolis,34,199,10/14/2023,Saturday
+Minneapolis,35,199,10/14/2023,Saturday
+Minneapolis,36,199,10/14/2023,Saturday
+Minneapolis,37,199,10/14/2023,Saturday
+Minneapolis,38,199,10/14/2023,Saturday
+Minneapolis,39,199,10/14/2023,Saturday
+Minneapolis,40,199,10/14/2023,Saturday
+Minneapolis,41,199,10/14/2023,Saturday
+Minneapolis,42,199,10/14/2023,Saturday
+Minneapolis,43,199,10/14/2023,Saturday
+Minneapolis,44,199,10/14/2023,Saturday
+Minneapolis,45,199,10/14/2023,Saturday
+Minneapolis,46,199,10/14/2023,Saturday
+Minneapolis,47,199,10/14/2023,Saturday
+Minneapolis,48,199,10/14/2023,Saturday
+Minneapolis,49,199,10/14/2023,Saturday
+Minneapolis,50,199,10/14/2023,Saturday
+Minneapolis,51,199,10/14/2023,Saturday
+Minneapolis,52,199,10/14/2023,Saturday
+Minneapolis,53,199,10/14/2023,Saturday
+Minneapolis,54,199,10/14/2023,Saturday
+Minneapolis,55,199,10/14/2023,Saturday
+Minneapolis,56,199,10/14/2023,Saturday
+Minneapolis,57,199,10/14/2023,Saturday
+Minneapolis,58,199,10/14/2023,Saturday
+Minneapolis,59,199,10/14/2023,Saturday
+Minneapolis,60,199,10/14/2023,Saturday
+Nashville,1,276,10/14/2023,Saturday
+Nashville,2,276,10/14/2023,Saturday
+Nashville,3,276,10/14/2023,Saturday
+Nashville,4,276,10/14/2023,Saturday
+Nashville,5,276,10/14/2023,Saturday
+Nashville,6,239,10/14/2023,Saturday
+Nashville,7,239,10/14/2023,Saturday
+Nashville,8,239,10/14/2023,Saturday
+Nashville,9,239,10/14/2023,Saturday
+Nashville,10,239,10/14/2023,Saturday
+Nashville,11,239,10/14/2023,Saturday
+Nashville,12,229,10/14/2023,Saturday
+Nashville,13,162,10/14/2023,Saturday
+Nashville,14,162,10/14/2023,Saturday
+Nashville,15,89,10/14/2023,Saturday
+Nashville,16,162,10/14/2023,Saturday
+Nashville,17,162,10/14/2023,Saturday
+Nashville,18,162,10/14/2023,Saturday
+Nashville,19,162,10/14/2023,Saturday
+Nashville,20,130,10/14/2023,Saturday
+Nashville,21,130,10/14/2023,Saturday
+Nashville,22,79,10/14/2023,Saturday
+Nashville,23,79,10/14/2023,Saturday
+Nashville,24,109,10/14/2023,Saturday
+Nashville,25,89,10/14/2023,Saturday
+Nashville,26,89,10/14/2023,Saturday
+Nashville,27,109,10/14/2023,Saturday
+Nashville,28,109,10/14/2023,Saturday
+Nashville,29,103,10/14/2023,Saturday
+Nashville,30,103,10/14/2023,Saturday
+Nashville,31,59,10/14/2023,Saturday
+Nashville,32,89,10/14/2023,Saturday
+Nashville,33,103,10/14/2023,Saturday
+Nashville,34,103,10/14/2023,Saturday
+Nashville,35,103,10/14/2023,Saturday
+Nashville,36,103,10/14/2023,Saturday
+Nashville,37,99,10/14/2023,Saturday
+Nashville,38,98,10/14/2023,Saturday
+Nashville,39,69,10/14/2023,Saturday
+Nashville,40,98,10/14/2023,Saturday
+Nashville,41,109,10/14/2023,Saturday
+Nashville,42,99,10/14/2023,Saturday
+Nashville,43,99,10/14/2023,Saturday
+Nashville,44,59,10/14/2023,Saturday
+Nashville,45,89,10/14/2023,Saturday
+Nashville,46,89,10/14/2023,Saturday
+Nashville,47,89,10/14/2023,Saturday
+Nashville,48,89,10/14/2023,Saturday
+Nashville,49,89,10/14/2023,Saturday
+Nashville,50,84,10/14/2023,Saturday
+Nashville,51,84,10/14/2023,Saturday
+Nashville,52,84,10/14/2023,Saturday
+Nashville,53,99,10/14/2023,Saturday
+Nashville,54,84,10/14/2023,Saturday
+Nashville,55,84,10/14/2023,Saturday
+Nashville,56,84,10/14/2023,Saturday
+Nashville,57,84,10/14/2023,Saturday
+Nashville,58,84,10/14/2023,Saturday
+Nashville,59,84,10/14/2023,Saturday
+Nashville,60,84,10/14/2023,Saturday
+New York,1,139,10/14/2023,Saturday
+New York,2,139,10/14/2023,Saturday
+New York,3,139,10/14/2023,Saturday
+New York,4,139,10/14/2023,Saturday
+New York,5,139,10/14/2023,Saturday
+New York,6,124,10/14/2023,Saturday
+New York,7,124,10/14/2023,Saturday
+New York,8,124,10/14/2023,Saturday
+New York,9,124,10/14/2023,Saturday
+New York,10,124,10/14/2023,Saturday
+New York,11,114,10/14/2023,Saturday
+New York,12,114,10/14/2023,Saturday
+New York,13,64,10/14/2023,Saturday
+New York,14,64,10/14/2023,Saturday
+New York,15,64,10/14/2023,Saturday
+New York,16,49,10/14/2023,Saturday
+New York,17,49,10/14/2023,Saturday
+New York,18,49,10/14/2023,Saturday
+New York,19,49,10/14/2023,Saturday
+New York,20,64,10/14/2023,Saturday
+New York,21,54,10/14/2023,Saturday
+New York,22,54,10/14/2023,Saturday
+New York,23,54,10/14/2023,Saturday
+New York,24,54,10/14/2023,Saturday
+New York,25,54,10/14/2023,Saturday
+New York,26,54,10/14/2023,Saturday
+New York,27,54,10/14/2023,Saturday
+New York,28,54,10/14/2023,Saturday
+New York,29,54,10/14/2023,Saturday
+New York,30,54,10/14/2023,Saturday
+New York,31,54,10/14/2023,Saturday
+New York,32,54,10/14/2023,Saturday
+New York,33,54,10/14/2023,Saturday
+New York,34,54,10/14/2023,Saturday
+New York,35,54,10/14/2023,Saturday
+New York,36,44,10/14/2023,Saturday
+New York,37,44,10/14/2023,Saturday
+New York,38,44,10/14/2023,Saturday
+New York,39,44,10/14/2023,Saturday
+New York,40,44,10/14/2023,Saturday
+New York,41,54,10/14/2023,Saturday
+New York,42,54,10/14/2023,Saturday
+New York,43,54,10/14/2023,Saturday
+New York,44,54,10/14/2023,Saturday
+New York,45,54,10/14/2023,Saturday
+New York,46,54,10/14/2023,Saturday
+New York,47,54,10/14/2023,Saturday
+New York,48,54,10/14/2023,Saturday
+New York,49,54,10/14/2023,Saturday
+New York,50,54,10/14/2023,Saturday
+New York,51,54,10/14/2023,Saturday
+New York,52,54,10/14/2023,Saturday
+New York,53,54,10/14/2023,Saturday
+New York,54,54,10/14/2023,Saturday
+New York,55,64,10/14/2023,Saturday
+New York,56,64,10/14/2023,Saturday
+New York,57,64,10/14/2023,Saturday
+New York,58,64,10/14/2023,Saturday
+New York,59,64,10/14/2023,Saturday
+New York,60,64,10/14/2023,Saturday
+Orlando,1,35,10/14/2023,Saturday
+Orlando,2,32,10/14/2023,Saturday
+Orlando,3,32,10/14/2023,Saturday
+Orlando,4,32,10/14/2023,Saturday
+Orlando,5,32,10/14/2023,Saturday
+Orlando,6,20,10/14/2023,Saturday
+Orlando,7,20,10/14/2023,Saturday
+Orlando,8,20,10/14/2023,Saturday
+Orlando,9,20,10/14/2023,Saturday
+Orlando,10,20,10/14/2023,Saturday
+Orlando,11,20,10/14/2023,Saturday
+Orlando,12,19,10/14/2023,Saturday
+Orlando,13,19,10/14/2023,Saturday
+Orlando,14,19,10/14/2023,Saturday
+Orlando,15,19,10/14/2023,Saturday
+Orlando,16,19,10/14/2023,Saturday
+Orlando,17,19,10/14/2023,Saturday
+Orlando,18,19,10/14/2023,Saturday
+Orlando,19,19,10/14/2023,Saturday
+Orlando,20,19,10/14/2023,Saturday
+Orlando,21,19,10/14/2023,Saturday
+Orlando,22,19,10/14/2023,Saturday
+Orlando,23,19,10/14/2023,Saturday
+Orlando,24,19,10/14/2023,Saturday
+Orlando,25,19,10/14/2023,Saturday
+Orlando,26,19,10/14/2023,Saturday
+Orlando,27,19,10/14/2023,Saturday
+Orlando,28,19,10/14/2023,Saturday
+Orlando,29,19,10/14/2023,Saturday
+Orlando,30,19,10/14/2023,Saturday
+Orlando,31,19,10/14/2023,Saturday
+Orlando,32,19,10/14/2023,Saturday
+Orlando,33,19,10/14/2023,Saturday
+Orlando,34,19,10/14/2023,Saturday
+Orlando,35,19,10/14/2023,Saturday
+Orlando,36,19,10/14/2023,Saturday
+Orlando,37,19,10/14/2023,Saturday
+Orlando,38,19,10/14/2023,Saturday
+Orlando,39,19,10/14/2023,Saturday
+Orlando,40,19,10/14/2023,Saturday
+Orlando,41,20,10/14/2023,Saturday
+Orlando,42,20,10/14/2023,Saturday
+Orlando,43,20,10/14/2023,Saturday
+Orlando,44,20,10/14/2023,Saturday
+Orlando,45,20,10/14/2023,Saturday
+Orlando,46,20,10/14/2023,Saturday
+Orlando,47,20,10/14/2023,Saturday
+Orlando,48,20,10/14/2023,Saturday
+Orlando,49,20,10/14/2023,Saturday
+Orlando,50,20,10/14/2023,Saturday
+Orlando,51,20,10/14/2023,Saturday
+Orlando,52,20,10/14/2023,Saturday
+Orlando,53,20,10/14/2023,Saturday
+Orlando,54,20,10/14/2023,Saturday
+Orlando,55,20,10/14/2023,Saturday
+Orlando,56,20,10/14/2023,Saturday
+Orlando,57,20,10/14/2023,Saturday
+Orlando,58,20,10/14/2023,Saturday
+Orlando,59,20,10/14/2023,Saturday
+Orlando,60,20,10/14/2023,Saturday
+Philadelphia,1,139,10/14/2023,Saturday
+Philadelphia,2,109,10/14/2023,Saturday
+Philadelphia,3,109,10/14/2023,Saturday
+Philadelphia,4,109,10/14/2023,Saturday
+Philadelphia,5,109,10/14/2023,Saturday
+Philadelphia,6,39,10/14/2023,Saturday
+Philadelphia,7,39,10/14/2023,Saturday
+Philadelphia,8,39,10/14/2023,Saturday
+Philadelphia,9,39,10/14/2023,Saturday
+Philadelphia,10,39,10/14/2023,Saturday
+Philadelphia,11,39,10/14/2023,Saturday
+Philadelphia,12,39,10/14/2023,Saturday
+Philadelphia,13,39,10/14/2023,Saturday
+Philadelphia,14,39,10/14/2023,Saturday
+Philadelphia,15,39,10/14/2023,Saturday
+Philadelphia,16,39,10/14/2023,Saturday
+Philadelphia,17,19,10/14/2023,Saturday
+Philadelphia,18,19,10/14/2023,Saturday
+Philadelphia,19,19,10/14/2023,Saturday
+Philadelphia,20,19,10/14/2023,Saturday
+Philadelphia,21,19,10/14/2023,Saturday
+Philadelphia,22,19,10/14/2023,Saturday
+Philadelphia,23,19,10/14/2023,Saturday
+Philadelphia,24,19,10/14/2023,Saturday
+Philadelphia,25,19,10/14/2023,Saturday
+Philadelphia,26,19,10/14/2023,Saturday
+Philadelphia,27,19,10/14/2023,Saturday
+Philadelphia,28,19,10/14/2023,Saturday
+Philadelphia,29,19,10/14/2023,Saturday
+Philadelphia,30,19,10/14/2023,Saturday
+Philadelphia,31,19,10/14/2023,Saturday
+Philadelphia,32,19,10/14/2023,Saturday
+Philadelphia,33,19,10/14/2023,Saturday
+Philadelphia,34,19,10/14/2023,Saturday
+Philadelphia,35,19,10/14/2023,Saturday
+Philadelphia,36,19,10/14/2023,Saturday
+Philadelphia,37,19,10/14/2023,Saturday
+Philadelphia,38,19,10/14/2023,Saturday
+Philadelphia,39,19,10/14/2023,Saturday
+Philadelphia,40,19,10/14/2023,Saturday
+Philadelphia,41,35,10/14/2023,Saturday
+Philadelphia,42,35,10/14/2023,Saturday
+Philadelphia,43,29,10/14/2023,Saturday
+Philadelphia,44,29,10/14/2023,Saturday
+Philadelphia,45,29,10/14/2023,Saturday
+Philadelphia,46,29,10/14/2023,Saturday
+Philadelphia,47,29,10/14/2023,Saturday
+Philadelphia,48,29,10/14/2023,Saturday
+Philadelphia,49,29,10/14/2023,Saturday
+Philadelphia,50,29,10/14/2023,Saturday
+Philadelphia,51,29,10/14/2023,Saturday
+Philadelphia,52,29,10/14/2023,Saturday
+Philadelphia,53,29,10/14/2023,Saturday
+Philadelphia,54,29,10/14/2023,Saturday
+Philadelphia,55,29,10/14/2023,Saturday
+Philadelphia,56,29,10/14/2023,Saturday
+Philadelphia,57,29,10/14/2023,Saturday
+Philadelphia,58,29,10/14/2023,Saturday
+Philadelphia,59,29,10/14/2023,Saturday
+Philadelphia,60,29,10/14/2023,Saturday
+Phoenix,1,672,10/14/2023,Saturday
+Phoenix,2,672,10/14/2023,Saturday
+Phoenix,3,672,10/14/2023,Saturday
+Phoenix,4,2336,10/14/2023,Saturday
+Phoenix,5,2336,10/14/2023,Saturday
+Phoenix,6,2336,10/14/2023,Saturday
+Phoenix,7,2336,10/14/2023,Saturday
+Phoenix,8,824,10/14/2023,Saturday
+Phoenix,9,672,10/14/2023,Saturday
+Phoenix,10,453,10/14/2023,Saturday
+Phoenix,11,453,10/14/2023,Saturday
+Phoenix,12,662,10/14/2023,Saturday
+Phoenix,13,662,10/14/2023,Saturday
+Phoenix,14,662,10/14/2023,Saturday
+Phoenix,15,662,10/14/2023,Saturday
+Phoenix,16,662,10/14/2023,Saturday
+Phoenix,17,662,10/14/2023,Saturday
+Phoenix,18,662,10/14/2023,Saturday
+Phoenix,19,358,10/14/2023,Saturday
+Phoenix,20,358,10/14/2023,Saturday
+Phoenix,21,358,10/14/2023,Saturday
+Phoenix,22,309,10/14/2023,Saturday
+Phoenix,23,309,10/14/2023,Saturday
+Phoenix,24,358,10/14/2023,Saturday
+Phoenix,25,358,10/14/2023,Saturday
+Phoenix,26,439,10/14/2023,Saturday
+Phoenix,27,358,10/14/2023,Saturday
+Phoenix,28,358,10/14/2023,Saturday
+Phoenix,29,358,10/14/2023,Saturday
+Phoenix,30,358,10/14/2023,Saturday
+Phoenix,31,439,10/14/2023,Saturday
+Phoenix,32,439,10/14/2023,Saturday
+Phoenix,33,439,10/14/2023,Saturday
+Phoenix,34,358,10/14/2023,Saturday
+Phoenix,35,358,10/14/2023,Saturday
+Phoenix,36,358,10/14/2023,Saturday
+Phoenix,37,439,10/14/2023,Saturday
+Phoenix,38,439,10/14/2023,Saturday
+Phoenix,39,439,10/14/2023,Saturday
+Phoenix,40,439,10/14/2023,Saturday
+Phoenix,41,439,10/14/2023,Saturday
+Phoenix,42,439,10/14/2023,Saturday
+Phoenix,43,439,10/14/2023,Saturday
+Phoenix,44,358,10/14/2023,Saturday
+Phoenix,45,358,10/14/2023,Saturday
+Phoenix,46,358,10/14/2023,Saturday
+Phoenix,47,358,10/14/2023,Saturday
+Phoenix,48,358,10/14/2023,Saturday
+Phoenix,49,358,10/14/2023,Saturday
+Phoenix,50,318,10/14/2023,Saturday
+Phoenix,51,318,10/14/2023,Saturday
+Phoenix,52,236,10/14/2023,Saturday
+Phoenix,53,236,10/14/2023,Saturday
+Phoenix,54,239,10/14/2023,Saturday
+Phoenix,55,239,10/14/2023,Saturday
+Phoenix,56,211,10/14/2023,Saturday
+Phoenix,57,191,10/14/2023,Saturday
+Phoenix,58,211,10/14/2023,Saturday
+Phoenix,59,221,10/14/2023,Saturday
+Phoenix,60,221,10/14/2023,Saturday
+Pittsburgh,1,307,10/14/2023,Saturday
+Pittsburgh,2,307,10/14/2023,Saturday
+Pittsburgh,3,307,10/14/2023,Saturday
+Pittsburgh,4,307,10/14/2023,Saturday
+Pittsburgh,5,307,10/14/2023,Saturday
+Pittsburgh,6,160,10/14/2023,Saturday
+Pittsburgh,7,160,10/14/2023,Saturday
+Pittsburgh,8,160,10/14/2023,Saturday
+Pittsburgh,9,160,10/14/2023,Saturday
+Pittsburgh,10,160,10/14/2023,Saturday
+Pittsburgh,11,160,10/14/2023,Saturday
+Pittsburgh,12,150,10/14/2023,Saturday
+Pittsburgh,13,130,10/14/2023,Saturday
+Pittsburgh,14,130,10/14/2023,Saturday
+Pittsburgh,15,130,10/14/2023,Saturday
+Pittsburgh,16,130,10/14/2023,Saturday
+Pittsburgh,17,130,10/14/2023,Saturday
+Pittsburgh,18,130,10/14/2023,Saturday
+Pittsburgh,19,130,10/14/2023,Saturday
+Pittsburgh,20,115,10/14/2023,Saturday
+Pittsburgh,21,115,10/14/2023,Saturday
+Pittsburgh,22,115,10/14/2023,Saturday
+Pittsburgh,23,115,10/14/2023,Saturday
+Pittsburgh,24,115,10/14/2023,Saturday
+Pittsburgh,25,99,10/14/2023,Saturday
+Pittsburgh,26,115,10/14/2023,Saturday
+Pittsburgh,27,115,10/14/2023,Saturday
+Pittsburgh,28,115,10/14/2023,Saturday
+Pittsburgh,29,115,10/14/2023,Saturday
+Pittsburgh,30,115,10/14/2023,Saturday
+Pittsburgh,31,115,10/14/2023,Saturday
+Pittsburgh,32,115,10/14/2023,Saturday
+Pittsburgh,33,115,10/14/2023,Saturday
+Pittsburgh,34,115,10/14/2023,Saturday
+Pittsburgh,35,115,10/14/2023,Saturday
+Pittsburgh,36,115,10/14/2023,Saturday
+Pittsburgh,37,105,10/14/2023,Saturday
+Pittsburgh,38,105,10/14/2023,Saturday
+Pittsburgh,39,105,10/14/2023,Saturday
+Pittsburgh,40,105,10/14/2023,Saturday
+Pittsburgh,41,105,10/14/2023,Saturday
+Pittsburgh,42,105,10/14/2023,Saturday
+Pittsburgh,43,105,10/14/2023,Saturday
+Pittsburgh,44,105,10/14/2023,Saturday
+Pittsburgh,45,105,10/14/2023,Saturday
+Pittsburgh,46,105,10/14/2023,Saturday
+Pittsburgh,47,105,10/14/2023,Saturday
+Pittsburgh,48,105,10/14/2023,Saturday
+Pittsburgh,49,105,10/14/2023,Saturday
+Pittsburgh,50,105,10/14/2023,Saturday
+Pittsburgh,51,105,10/14/2023,Saturday
+Pittsburgh,52,105,10/14/2023,Saturday
+Pittsburgh,53,105,10/14/2023,Saturday
+Pittsburgh,54,105,10/14/2023,Saturday
+Pittsburgh,55,105,10/14/2023,Saturday
+Pittsburgh,56,105,10/14/2023,Saturday
+Pittsburgh,57,105,10/14/2023,Saturday
+Pittsburgh,58,105,10/14/2023,Saturday
+Pittsburgh,59,105,10/14/2023,Saturday
+Pittsburgh,60,105,10/14/2023,Saturday
+San Francisco,1,544,10/14/2023,Saturday
+San Francisco,2,544,10/14/2023,Saturday
+San Francisco,3,544,10/14/2023,Saturday
+San Francisco,4,544,10/14/2023,Saturday
+San Francisco,5,544,10/14/2023,Saturday
+San Francisco,6,454,10/14/2023,Saturday
+San Francisco,7,454,10/14/2023,Saturday
+San Francisco,8,454,10/14/2023,Saturday
+San Francisco,9,454,10/14/2023,Saturday
+San Francisco,10,454,10/14/2023,Saturday
+San Francisco,11,454,10/14/2023,Saturday
+San Francisco,12,454,10/14/2023,Saturday
+San Francisco,13,349,10/14/2023,Saturday
+San Francisco,14,349,10/14/2023,Saturday
+San Francisco,15,349,10/14/2023,Saturday
+San Francisco,16,349,10/14/2023,Saturday
+San Francisco,17,349,10/14/2023,Saturday
+San Francisco,18,349,10/14/2023,Saturday
+San Francisco,19,349,10/14/2023,Saturday
+San Francisco,20,269,10/14/2023,Saturday
+San Francisco,21,269,10/14/2023,Saturday
+San Francisco,22,269,10/14/2023,Saturday
+San Francisco,23,269,10/14/2023,Saturday
+San Francisco,24,269,10/14/2023,Saturday
+San Francisco,25,269,10/14/2023,Saturday
+San Francisco,26,269,10/14/2023,Saturday
+San Francisco,27,269,10/14/2023,Saturday
+San Francisco,28,269,10/14/2023,Saturday
+San Francisco,29,269,10/14/2023,Saturday
+San Francisco,30,269,10/14/2023,Saturday
+San Francisco,31,269,10/14/2023,Saturday
+San Francisco,32,269,10/14/2023,Saturday
+San Francisco,33,269,10/14/2023,Saturday
+San Francisco,34,269,10/14/2023,Saturday
+San Francisco,35,269,10/14/2023,Saturday
+San Francisco,36,269,10/14/2023,Saturday
+San Francisco,37,269,10/14/2023,Saturday
+San Francisco,38,269,10/14/2023,Saturday
+San Francisco,39,269,10/14/2023,Saturday
+San Francisco,40,269,10/14/2023,Saturday
+San Francisco,41,269,10/14/2023,Saturday
+San Francisco,42,269,10/14/2023,Saturday
+San Francisco,43,269,10/14/2023,Saturday
+San Francisco,44,269,10/14/2023,Saturday
+San Francisco,45,259,10/14/2023,Saturday
+San Francisco,46,259,10/14/2023,Saturday
+San Francisco,47,259,10/14/2023,Saturday
+San Francisco,48,259,10/14/2023,Saturday
+San Francisco,49,259,10/14/2023,Saturday
+San Francisco,50,259,10/14/2023,Saturday
+San Francisco,51,259,10/14/2023,Saturday
+San Francisco,52,259,10/14/2023,Saturday
+San Francisco,53,259,10/14/2023,Saturday
+San Francisco,54,269,10/14/2023,Saturday
+San Francisco,55,269,10/14/2023,Saturday
+San Francisco,56,269,10/14/2023,Saturday
+San Francisco,57,269,10/14/2023,Saturday
+San Francisco,58,269,10/14/2023,Saturday
+San Francisco,59,269,10/14/2023,Saturday
+San Francisco,60,269,10/14/2023,Saturday
+Seattle,1,589,10/14/2023,Saturday
+Seattle,2,589,10/14/2023,Saturday
+Seattle,3,589,10/14/2023,Saturday
+Seattle,4,589,10/14/2023,Saturday
+Seattle,5,589,10/14/2023,Saturday
+Seattle,6,509,10/14/2023,Saturday
+Seattle,7,509,10/14/2023,Saturday
+Seattle,8,509,10/14/2023,Saturday
+Seattle,9,509,10/14/2023,Saturday
+Seattle,10,509,10/14/2023,Saturday
+Seattle,11,499,10/14/2023,Saturday
+Seattle,12,499,10/14/2023,Saturday
+Seattle,13,349,10/14/2023,Saturday
+Seattle,14,349,10/14/2023,Saturday
+Seattle,15,349,10/14/2023,Saturday
+Seattle,16,349,10/14/2023,Saturday
+Seattle,17,349,10/14/2023,Saturday
+Seattle,18,349,10/14/2023,Saturday
+Seattle,19,349,10/14/2023,Saturday
+Seattle,20,159,10/14/2023,Saturday
+Seattle,21,139,10/14/2023,Saturday
+Seattle,22,139,10/14/2023,Saturday
+Seattle,23,139,10/14/2023,Saturday
+Seattle,24,139,10/14/2023,Saturday
+Seattle,25,139,10/14/2023,Saturday
+Seattle,26,139,10/14/2023,Saturday
+Seattle,27,139,10/14/2023,Saturday
+Seattle,28,139,10/14/2023,Saturday
+Seattle,29,139,10/14/2023,Saturday
+Seattle,30,139,10/14/2023,Saturday
+Seattle,31,139,10/14/2023,Saturday
+Seattle,32,139,10/14/2023,Saturday
+Seattle,33,139,10/14/2023,Saturday
+Seattle,34,159,10/14/2023,Saturday
+Seattle,35,159,10/14/2023,Saturday
+Seattle,36,159,10/14/2023,Saturday
+Seattle,37,129,10/14/2023,Saturday
+Seattle,38,129,10/14/2023,Saturday
+Seattle,39,139,10/14/2023,Saturday
+Seattle,40,159,10/14/2023,Saturday
+Seattle,41,159,10/14/2023,Saturday
+Seattle,42,159,10/14/2023,Saturday
+Seattle,43,159,10/14/2023,Saturday
+Seattle,44,159,10/14/2023,Saturday
+Seattle,45,159,10/14/2023,Saturday
+Seattle,46,159,10/14/2023,Saturday
+Seattle,47,159,10/14/2023,Saturday
+Seattle,48,159,10/14/2023,Saturday
+Seattle,49,159,10/14/2023,Saturday
+Seattle,50,159,10/14/2023,Saturday
+Seattle,51,159,10/14/2023,Saturday
+Seattle,52,159,10/14/2023,Saturday
+Seattle,53,149,10/14/2023,Saturday
+Seattle,54,149,10/14/2023,Saturday
+Seattle,55,149,10/14/2023,Saturday
+Seattle,56,149,10/14/2023,Saturday
+Seattle,57,149,10/14/2023,Saturday
+Seattle,58,149,10/14/2023,Saturday
+Seattle,59,149,10/14/2023,Saturday
+Seattle,60,149,10/14/2023,Saturday
+Tampa,1,35,10/14/2023,Saturday
+Tampa,2,32,10/14/2023,Saturday
+Tampa,3,32,10/14/2023,Saturday
+Tampa,4,32,10/14/2023,Saturday
+Tampa,5,32,10/14/2023,Saturday
+Tampa,6,20,10/14/2023,Saturday
+Tampa,7,20,10/14/2023,Saturday
+Tampa,8,20,10/14/2023,Saturday
+Tampa,9,20,10/14/2023,Saturday
+Tampa,10,20,10/14/2023,Saturday
+Tampa,11,20,10/14/2023,Saturday
+Tampa,12,19,10/14/2023,Saturday
+Tampa,13,19,10/14/2023,Saturday
+Tampa,14,19,10/14/2023,Saturday
+Tampa,15,19,10/14/2023,Saturday
+Tampa,16,19,10/14/2023,Saturday
+Tampa,17,19,10/14/2023,Saturday
+Tampa,18,19,10/14/2023,Saturday
+Tampa,19,19,10/14/2023,Saturday
+Tampa,20,19,10/14/2023,Saturday
+Tampa,21,19,10/14/2023,Saturday
+Tampa,22,19,10/14/2023,Saturday
+Tampa,23,19,10/14/2023,Saturday
+Tampa,24,19,10/14/2023,Saturday
+Tampa,25,19,10/14/2023,Saturday
+Tampa,26,19,10/14/2023,Saturday
+Tampa,27,19,10/14/2023,Saturday
+Tampa,28,19,10/14/2023,Saturday
+Tampa,29,19,10/14/2023,Saturday
+Tampa,30,19,10/14/2023,Saturday
+Tampa,31,19,10/14/2023,Saturday
+Tampa,32,19,10/14/2023,Saturday
+Tampa,33,19,10/14/2023,Saturday
+Tampa,34,19,10/14/2023,Saturday
+Tampa,35,19,10/14/2023,Saturday
+Tampa,36,19,10/14/2023,Saturday
+Tampa,37,19,10/14/2023,Saturday
+Tampa,38,19,10/14/2023,Saturday
+Tampa,39,19,10/14/2023,Saturday
+Tampa,40,19,10/14/2023,Saturday
+Tampa,41,20,10/14/2023,Saturday
+Tampa,42,20,10/14/2023,Saturday
+Tampa,43,20,10/14/2023,Saturday
+Tampa,44,20,10/14/2023,Saturday
+Tampa,45,20,10/14/2023,Saturday
+Tampa,46,20,10/14/2023,Saturday
+Tampa,47,20,10/14/2023,Saturday
+Tampa,48,20,10/14/2023,Saturday
+Tampa,49,20,10/14/2023,Saturday
+Tampa,50,20,10/14/2023,Saturday
+Tampa,51,20,10/14/2023,Saturday
+Tampa,52,20,10/14/2023,Saturday
+Tampa,53,20,10/14/2023,Saturday
+Tampa,54,20,10/14/2023,Saturday
+Tampa,55,20,10/14/2023,Saturday
+Tampa,56,20,10/14/2023,Saturday
+Tampa,57,20,10/14/2023,Saturday
+Tampa,58,20,10/14/2023,Saturday
+Tampa,59,20,10/14/2023,Saturday
+Tampa,60,20,10/14/2023,Saturday
+Washington,1,239,10/14/2023,Saturday
+Washington,2,239,10/14/2023,Saturday
+Washington,3,239,10/14/2023,Saturday
+Washington,4,239,10/14/2023,Saturday
+Washington,5,239,10/14/2023,Saturday
+Washington,6,176,10/14/2023,Saturday
+Washington,7,176,10/14/2023,Saturday
+Washington,8,176,10/14/2023,Saturday
+Washington,9,176,10/14/2023,Saturday
+Washington,10,176,10/14/2023,Saturday
+Washington,11,166,10/14/2023,Saturday
+Washington,12,166,10/14/2023,Saturday
+Washington,13,126,10/14/2023,Saturday
+Washington,14,126,10/14/2023,Saturday
+Washington,15,126,10/14/2023,Saturday
+Washington,16,126,10/14/2023,Saturday
+Washington,17,126,10/14/2023,Saturday
+Washington,18,126,10/14/2023,Saturday
+Washington,19,126,10/14/2023,Saturday
+Washington,20,74,10/14/2023,Saturday
+Washington,21,74,10/14/2023,Saturday
+Washington,22,74,10/14/2023,Saturday
+Washington,23,74,10/14/2023,Saturday
+Washington,24,74,10/14/2023,Saturday
+Washington,25,74,10/14/2023,Saturday
+Washington,26,74,10/14/2023,Saturday
+Washington,27,89,10/14/2023,Saturday
+Washington,28,89,10/14/2023,Saturday
+Washington,29,89,10/14/2023,Saturday
+Washington,30,89,10/14/2023,Saturday
+Washington,31,86,10/14/2023,Saturday
+Washington,32,86,10/14/2023,Saturday
+Washington,33,89,10/14/2023,Saturday
+Washington,34,89,10/14/2023,Saturday
+Washington,35,89,10/14/2023,Saturday
+Washington,36,89,10/14/2023,Saturday
+Washington,37,89,10/14/2023,Saturday
+Washington,38,89,10/14/2023,Saturday
+Washington,39,89,10/14/2023,Saturday
+Washington,40,89,10/14/2023,Saturday
+Washington,41,89,10/14/2023,Saturday
+Washington,42,89,10/14/2023,Saturday
+Washington,43,69,10/14/2023,Saturday
+Washington,44,69,10/14/2023,Saturday
+Washington,45,69,10/14/2023,Saturday
+Washington,46,69,10/14/2023,Saturday
+Washington,47,69,10/14/2023,Saturday
+Washington,48,69,10/14/2023,Saturday
+Washington,49,69,10/14/2023,Saturday
+Washington,50,69,10/14/2023,Saturday
+Washington,51,69,10/14/2023,Saturday
+Washington,52,69,10/14/2023,Saturday
+Washington,53,69,10/14/2023,Saturday
+Washington,54,69,10/14/2023,Saturday
+Washington,55,69,10/14/2023,Saturday
+Washington,56,69,10/14/2023,Saturday
+Washington,57,69,10/14/2023,Saturday
+Washington,58,69,10/14/2023,Saturday
+Washington,59,69,10/14/2023,Saturday
+Washington,60,69,10/14/2023,Saturday
