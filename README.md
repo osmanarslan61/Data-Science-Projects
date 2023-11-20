@@ -1,6 +1,10 @@
 # Purchase Flight Tickets at the Right Time and Save Money
-In this project, we scrape historical flight prices for 60 days from Google Flights Website and use this data to predict best time to purchase a flight 
-ticket for future flights.
+In this project, we scrape historical flight prices for 60 days from Google Flights Website and use this data to predict best time to purchase a flight ticket for future flights.
+
+**Link for the application web site:** https://capstone-7klk.onrender.com/
+
+**A screenshot of how the web site:**
+![image](https://github.com/osmanarslan61/capstone/assets/133136319/ad233382-b0ec-4977-a7c8-08a9e99df241)
 
 **File descriptions:**
 - capstone_project_Osman_Arslan.jpynb: includes all the codes of the project and detailed explanations.
@@ -9,8 +13,6 @@ ticket for future flights.
 - lookup_table: A list of all the predicted best time windows for all destinations and days of the week.
 - requirement.txt: Installation requirements for the environment.
 - README.txt: You are reading me :)
-
-**Link for the application web site:** https://capstone-7klk.onrender.com/
 
 **Data Scraping:** We use Selenium to automate the data scraping process. We scrape prices for flights from RDU Airport to 25 different destinations. 
 For each flight we scrape historical prices for 60 days until the flight date.
@@ -30,7 +32,7 @@ Here is an example plot of how we estimate the best time window to purchase a ti
 
 <img width="726" alt="image" src="https://github.com/osmanarslan61/capstone/assets/133136319/98ce39de-06e7-477b-95ad-dbbcde758a50">
 
-**Building the Web Site:** We build a look up table that includes the time window indexes, average prices for the color chart, minimum estimated price and the performance of each estimated time window. And then we calculate the time window based on entered destination and flight date. Here is a screenshot of how the web site looks like:
+**Building the Web Site:** We build a look up table that includes the time window indexes, average prices for the color chart, minimum estimated price and the performance of each estimated time window. And then we calculate the time window based on entered destination and flight date.
 
 ![image](https://github.com/osmanarslan61/capstone/assets/133136319/ad233382-b0ec-4977-a7c8-08a9e99df241)
 
