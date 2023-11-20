@@ -3,7 +3,8 @@ In this project, we scrape historical flight prices from Google Flights Website 
 
 **Link for the application web site:** https://capstone-7klk.onrender.com/
 
-**A screenshot of how the web site:**
+**A screenshot of the web site:**
+
 ![image](https://github.com/osmanarslan61/capstone/assets/133136319/ad233382-b0ec-4977-a7c8-08a9e99df241)
 
 **File descriptions:**
