@@ -1,5 +1,5 @@
 # Purchase Flight Tickets at the Right Time and Save Money
-In this project, we scrape historical flight prices for 60 days from Google Flights Website and use this data to predict best time to purchase a flight ticket for future flights.
+In this project, we scrape historical flight prices from Google Flights Website and use this data to predict best time to purchase a flight ticket for future flights.
 
 **Link for the application web site:** https://capstone-7klk.onrender.com/
 
