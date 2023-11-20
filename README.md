@@ -22,7 +22,7 @@ Here is an example plot of how we estimate the best time window to purchase a ti
 
 **Building the Web Site:** We build a look up table that includes the time window indexes, average prices for the color chart, minimum estimated price and the performance of each estimated time window. And then we calculate the time window based on entered destination and flight date. Here is a screenshot of how the web site looks like:
 
-![image](https://github.com/osmanarslan61/capstone/assets/133136319/7119c9ca-44cc-484e-a407-b00d645add95)
+![image](https://github.com/osmanarslan61/capstone/assets/133136319/ad233382-b0ec-4977-a7c8-08a9e99df241)
 
 **Conclusion:** 
 
