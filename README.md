@@ -1,4 +1,4 @@
-# capstone
+# Purchase Flight Tickets at the Right Time and Save Money
 In this project, we scrape historical flight prices for 60 days from Google Flights Website and use this data to predict best time to purchase a flight 
 ticket for future flights.
 
@@ -27,7 +27,7 @@ Here is an example plot of how we estimate the best time window to purchase a ti
 **Conclusion:** 
 
 - Scope: Covered nonstop flights from Raleigh to 25 different destinations
-- Data: Scraped 7 weeks of data from google flights
+- Data: Scraped 6 weeks of data from google flights
 - Accuracy : On average, average price of the predicted time-window is 10% off from the average min. price of the best time-window. (calculated with cross validation)
 - Next Step: Incorporate seasonal variations
 
