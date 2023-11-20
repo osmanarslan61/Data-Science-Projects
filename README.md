@@ -10,6 +10,8 @@ ticket for future flights.
 - requirement.txt: Installation requirements for the environment.
 - README.txt: You are reading me :)
 
+**Link for the application web site:** https://capstone-7klk.onrender.com/
+
 **Data Scraping:** We use Selenium to automate the data scraping process. We scrape prices for flights from RDU Airport to 25 different destinations. 
 For each flight we scrape historical prices for 60 days until the flight date.
 
